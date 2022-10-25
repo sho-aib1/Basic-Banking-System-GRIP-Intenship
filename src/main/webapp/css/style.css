@@ -1,0 +1,142 @@
+
+body{
+   
+    
+  padding: 0;
+  margin: 0;
+   
+
+    
+    
+}
+.cont
+{
+    background-image: url("../images/bg.png");
+    background-size: cover;
+    /* background-repeat: none; */
+    height:100vh;
+    width: 100vw;
+    padding-bottom: 50%;
+    
+}
+.my-nav
+{
+    border-bottom: 2px solid transparent;
+    font-weight: bolder;
+    font-family:verdana;
+    font-size: 16px;
+    
+   
+}
+.crd
+{
+   
+   
+    box-shadow: 10px 10px 5px 2px #2c3a78;
+}
+.crd-edit {
+    width: 39%;
+    position: relative;
+    left: 24%;
+  }
+
+.my-nav a:hover{
+    
+    border-bottom: 4px solid #404488;
+    transition: 100ms ease !important;
+  
+}
+
+
+
+
+.menubar
+{
+    justify-content: center;
+    padding-left: 10vw;
+    padding-right: 20vh;
+}   
+
+#description
+{
+    font-family: Arial;
+    font-weight: bolder;
+    text-align: justify;
+   
+    
+
+text-align: justify;
+
+/* box-shadow: 10px 10px lightblue; */
+
+}
+
+
+
+.img-logo
+{
+    position: relative;
+    left: 10%;
+    height: 300px;
+width: 300px;
+
+
+}
+.button
+{
+    /* background-color: rgb(176, 176, 226); */
+    
+    
+    box-shadow: 10px 5px 10px 5px  rgb(25, 161, 214);
+    color: #092ae3;
+    font-family: 'Arial';
+    font-weight: bolder;
+    position: relative;
+    left: 20%;
+    
+}
+
+.button:hover
+{
+    background-color: #404488;
+
+    color: whitesmoke;
+    font-weight: bolder;
+    
+    transition:50ms ease;
+}
+
+
+.crd-img
+{
+    height:"30%" !important; 
+    width:"30%"  !important;
+}
+.button1
+{
+    /* background-color: rgb(176, 176, 226); */
+    
+    
+    box-shadow: 10px 5px 10px 5px  rgb(25, 161, 214);
+    color: #092ae3;
+    font-family: 'Arial';
+    font-weight: bolder;
+    padding: 1rem;
+    
+    
+        width: 16rem;
+   margin-bottom: 4rem;
+        position: relative;
+        left: 12%;
+     
+}
+
+.button1:hover
+{
+    background-color: #404488;
+
+    color: whitesmoke;
+    font-weight: bolder;
+    
+    transition:50ms ease;
+}
